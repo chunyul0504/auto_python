@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8888f962-02d9-4273-8e4d-349155b52f52" name="Changes" comment="" />
+    <list default="true" id="8888f962-02d9-4273-8e4d-349155b52f52" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/web_insert_issuer_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_insert_issuer_code.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +117,8 @@
       <updated>1649736798822</updated>
       <workItem from="1649736800012" duration="1829000" />
       <workItem from="1649738689066" duration="5214000" />
-      <workItem from="1649808549380" duration="1165000" />
+      <workItem from="1649808549380" duration="1210000" />
+      <workItem from="1649810655658" duration="1216000" />
     </task>
     <servers />
   </component>
@@ -132,6 +135,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
